@@ -1,0 +1,727 @@
+HEADS = 2
+  [1,   200] loss: 0.240
+  [1,   400] loss: 0.239
+  [1,   600] loss: 0.241
+  Epoch 0
+  Epoch : 1 - loss : 2.4017 - acc: 0.1002 - val_loss : 2.4046 - val_acc: 0.0992
+
+  [2,   200] loss: 0.240
+  [2,   400] loss: 0.241
+  [2,   600] loss: 0.240
+  Epoch 1
+  Epoch : 2 - loss : 2.4017 - acc: 0.1002 - val_loss : 2.4039 - val_acc: 0.0995
+
+  [3,   200] loss: 0.241
+  [3,   400] loss: 0.240
+  [3,   600] loss: 0.240
+  Epoch 2
+  Epoch : 3 - loss : 2.4017 - acc: 0.1002 - val_loss : 2.4053 - val_acc: 0.0992
+
+  [4,   200] loss: 0.240
+  [4,   400] loss: 0.240
+  [4,   600] loss: 0.240
+  Epoch 3
+  Epoch : 4 - loss : 2.4017 - acc: 0.1002 - val_loss : 2.4049 - val_acc: 0.0989
+
+  [5,   200] loss: 0.240
+  [5,   400] loss: 0.240
+  [5,   600] loss: 0.241
+  Epoch 4
+  Epoch : 5 - loss : 2.4017 - acc: 0.1002 - val_loss : 2.4037 - val_acc: 0.0995
+
+  [6,   200] loss: 0.240
+  [6,   400] loss: 0.240
+  [6,   600] loss: 0.241
+  Epoch 5
+  Epoch : 6 - loss : 2.4017 - acc: 0.1001 - val_loss : 2.4044 - val_acc: 0.0995
+
+  [7,   200] loss: 0.240
+  [7,   400] loss: 0.240
+  [7,   600] loss: 0.241
+  Epoch 6
+  Epoch : 7 - loss : 2.4017 - acc: 0.1002 - val_loss : 2.4036 - val_acc: 0.0995
+
+  [8,   200] loss: 0.240
+  [8,   400] loss: 0.240
+  [8,   600] loss: 0.240
+  Epoch 7
+  Epoch : 8 - loss : 2.4017 - acc: 0.1002 - val_loss : 2.4044 - val_acc: 0.0992
+
+  [9,   200] loss: 0.240
+  [9,   400] loss: 0.240
+  [9,   600] loss: 0.240
+  Epoch 8
+  Epoch : 9 - loss : 2.4016 - acc: 0.1002 - val_loss : 2.4061 - val_acc: 0.0989
+
+  [10,   200] loss: 0.240
+  [10,   400] loss: 0.240
+  [10,   600] loss: 0.240
+  Epoch 9
+  Epoch : 10 - loss : 2.4018 - acc: 0.1002 - val_loss : 2.4037 - val_acc: 0.0995
+
+  [11,   200] loss: 0.240
+  [11,   400] loss: 0.240
+  [11,   600] loss: 0.241
+  Epoch 10
+  Epoch : 11 - loss : 2.4018 - acc: 0.1002 - val_loss : 2.4045 - val_acc: 0.0992
+
+  [12,   200] loss: 0.240
+  [12,   400] loss: 0.240
+  [12,   600] loss: 0.240
+  Epoch 11
+  Epoch : 12 - loss : 2.4018 - acc: 0.1002 - val_loss : 2.4043 - val_acc: 0.0998
+
+  [13,   200] loss: 0.240
+  [13,   400] loss: 0.240
+  [13,   600] loss: 0.241
+  Epoch 12
+  Epoch : 13 - loss : 2.4016 - acc: 0.1002 - val_loss : 2.4046 - val_acc: 0.0992
+
+  [14,   200] loss: 0.240
+  [14,   400] loss: 0.240
+  [14,   600] loss: 0.240
+  Epoch 13
+  Epoch : 14 - loss : 2.4017 - acc: 0.1002 - val_loss : 2.4048 - val_acc: 0.0989
+
+  [15,   200] loss: 0.240
+  [15,   400] loss: 0.240
+  [15,   600] loss: 0.240
+  Epoch 14
+  Epoch : 15 - loss : 2.4018 - acc: 0.1002 - val_loss : 2.4042 - val_acc: 0.0998
+
+  [16,   200] loss: 0.241
+  [16,   400] loss: 0.240
+  [16,   600] loss: 0.240
+  Epoch 15
+  Epoch : 16 - loss : 2.4018 - acc: 0.1001 - val_loss : 2.4039 - val_acc: 0.0992
+
+  [17,   200] loss: 0.240
+  [17,   400] loss: 0.241
+  [17,   600] loss: 0.240
+  Epoch 16
+  Epoch : 17 - loss : 2.4018 - acc: 0.1002 - val_loss : 2.4036 - val_acc: 0.0992
+
+  [18,   200] loss: 0.240
+  [18,   400] loss: 0.240
+  [18,   600] loss: 0.240
+  Epoch 17
+  Epoch : 18 - loss : 2.4017 - acc: 0.1002 - val_loss : 2.4050 - val_acc: 0.0995
+
+  [19,   200] loss: 0.240
+  [19,   400] loss: 0.240
+  [19,   600] loss: 0.240
+  Epoch 18
+  Epoch : 19 - loss : 2.4017 - acc: 0.1002 - val_loss : 2.4040 - val_acc: 0.0998
+
+  [20,   200] loss: 0.240
+  [20,   400] loss: 0.240
+  [20,   600] loss: 0.240
+  Epoch 19
+  Epoch : 20 - loss : 2.4018 - acc: 0.1002 - val_loss : 2.4041 - val_acc: 0.0998
+
+HEADS = 4
+
+  [1,   200] loss: 0.247
+  [1,   400] loss: 0.247
+  [1,   600] loss: 0.248
+  Epoch 0
+  Epoch : 1 - loss : 2.4738 - acc: 0.0990 - val_loss : 2.4638 - val_acc: 0.1044
+
+  [2,   200] loss: 0.247
+  [2,   400] loss: 0.248
+  [2,   600] loss: 0.247
+  Epoch 1
+  Epoch : 2 - loss : 2.4738 - acc: 0.0990 - val_loss : 2.4645 - val_acc: 0.1041
+
+  [3,   200] loss: 0.248
+  [3,   400] loss: 0.246
+  [3,   600] loss: 0.248
+  Epoch 2
+  Epoch : 3 - loss : 2.4739 - acc: 0.0990 - val_loss : 2.4639 - val_acc: 0.1041
+
+  [4,   200] loss: 0.248
+  [4,   400] loss: 0.247
+  [4,   600] loss: 0.247
+  Epoch 3
+  Epoch : 4 - loss : 2.4738 - acc: 0.0990 - val_loss : 2.4643 - val_acc: 0.1041
+
+  [5,   200] loss: 0.247
+  [5,   400] loss: 0.247
+  [5,   600] loss: 0.248
+  Epoch 4
+  Epoch : 5 - loss : 2.4738 - acc: 0.0990 - val_loss : 2.4653 - val_acc: 0.1038
+
+  [6,   200] loss: 0.247
+  [6,   400] loss: 0.248
+  [6,   600] loss: 0.247
+  Epoch 5
+  Epoch : 6 - loss : 2.4739 - acc: 0.0990 - val_loss : 2.4642 - val_acc: 0.1041
+
+  [7,   200] loss: 0.247
+  [7,   400] loss: 0.249
+  [7,   600] loss: 0.247
+  Epoch 6
+  Epoch : 7 - loss : 2.4739 - acc: 0.0990 - val_loss : 2.4635 - val_acc: 0.1038
+
+  [8,   200] loss: 0.247
+  [8,   400] loss: 0.248
+  [8,   600] loss: 0.247
+  Epoch 7
+  Epoch : 8 - loss : 2.4737 - acc: 0.0990 - val_loss : 2.4644 - val_acc: 0.1038
+
+  [9,   200] loss: 0.248
+  [9,   400] loss: 0.247
+  [9,   600] loss: 0.247
+  Epoch 8
+  Epoch : 9 - loss : 2.4738 - acc: 0.0990 - val_loss : 2.4654 - val_acc: 0.1038
+
+  [10,   200] loss: 0.247
+  [10,   400] loss: 0.248
+  [10,   600] loss: 0.247
+  Epoch 9
+  Epoch : 10 - loss : 2.4739 - acc: 0.0990 - val_loss : 2.4639 - val_acc: 0.1038
+
+  [11,   200] loss: 0.248
+  [11,   400] loss: 0.247
+  [11,   600] loss: 0.248
+  Epoch 10
+  Epoch : 11 - loss : 2.4738 - acc: 0.0990 - val_loss : 2.4644 - val_acc: 0.1038
+
+  [12,   200] loss: 0.248
+  [12,   400] loss: 0.247
+  [12,   600] loss: 0.247
+  Epoch 11
+  Epoch : 12 - loss : 2.4739 - acc: 0.0990 - val_loss : 2.4643 - val_acc: 0.1041
+
+  [13,   200] loss: 0.248
+  [13,   400] loss: 0.247
+  [13,   600] loss: 0.247
+  Epoch 12
+  Epoch : 13 - loss : 2.4737 - acc: 0.0990 - val_loss : 2.4659 - val_acc: 0.1038
+
+  [14,   200] loss: 0.247
+  [14,   400] loss: 0.247
+  [14,   600] loss: 0.248
+  Epoch 13
+  Epoch : 14 - loss : 2.4739 - acc: 0.0990 - val_loss : 2.4638 - val_acc: 0.1038
+
+  [15,   200] loss: 0.247
+  [15,   400] loss: 0.248
+  [15,   600] loss: 0.248
+  Epoch 14
+  Epoch : 15 - loss : 2.4738 - acc: 0.0990 - val_loss : 2.4643 - val_acc: 0.1038
+
+  [16,   200] loss: 0.247
+  [16,   400] loss: 0.249
+  [16,   600] loss: 0.246
+  Epoch 15
+  Epoch : 16 - loss : 2.4739 - acc: 0.0990 - val_loss : 2.4641 - val_acc: 0.1041
+
+  [17,   200] loss: 0.247
+  [17,   400] loss: 0.248
+  [17,   600] loss: 0.248
+  Epoch 16
+  Epoch : 17 - loss : 2.4738 - acc: 0.0990 - val_loss : 2.4644 - val_acc: 0.1038
+
+  [18,   200] loss: 0.248
+  [18,   400] loss: 0.247
+  [18,   600] loss: 0.247
+  Epoch 17
+  Epoch : 18 - loss : 2.4738 - acc: 0.0990 - val_loss : 2.4654 - val_acc: 0.1038
+
+  [19,   200] loss: 0.247
+  [19,   400] loss: 0.247
+  [19,   600] loss: 0.248
+  Epoch 18
+  Epoch : 19 - loss : 2.4738 - acc: 0.0990 - val_loss : 2.4654 - val_acc: 0.1041
+
+  [20,   200] loss: 0.247
+  [20,   400] loss: 0.248
+  [20,   600] loss: 0.248
+  Epoch 19
+  Epoch : 20 - loss : 2.4739 - acc: 0.0990 - val_loss : 2.4650 - val_acc: 0.1035
+
+HEADS = 8
+  [1,   200] loss: 0.246
+  [1,   400] loss: 0.246
+  [1,   600] loss: 0.246
+  Epoch 0
+  Epoch : 1 - loss : 2.4601 - acc: 0.1017 - val_loss : 2.4710 - val_acc: 0.0938
+
+  [2,   200] loss: 0.246
+  [2,   400] loss: 0.246
+  [2,   600] loss: 0.246
+  Epoch 1
+  Epoch : 2 - loss : 2.4601 - acc: 0.1017 - val_loss : 2.4714 - val_acc: 0.0938
+
+  [3,   200] loss: 0.246
+  [3,   400] loss: 0.246
+  [3,   600] loss: 0.246
+  Epoch 2
+  Epoch : 3 - loss : 2.4602 - acc: 0.1017 - val_loss : 2.4717 - val_acc: 0.0932
+
+  [4,   200] loss: 0.246
+  [4,   400] loss: 0.246
+  [4,   600] loss: 0.246
+  Epoch 3
+  Epoch : 4 - loss : 2.4601 - acc: 0.1017 - val_loss : 2.4715 - val_acc: 0.0932
+
+  [5,   200] loss: 0.246
+  [5,   400] loss: 0.246
+  [5,   600] loss: 0.247
+  Epoch 4
+  Epoch : 5 - loss : 2.4602 - acc: 0.1017 - val_loss : 2.4712 - val_acc: 0.0935
+
+  [6,   200] loss: 0.246
+  [6,   400] loss: 0.247
+  [6,   600] loss: 0.246
+  Epoch 5
+  Epoch : 6 - loss : 2.4603 - acc: 0.1017 - val_loss : 2.4721 - val_acc: 0.0938
+
+  [7,   200] loss: 0.246
+  [7,   400] loss: 0.246
+  [7,   600] loss: 0.246
+  Epoch 6
+  Epoch : 7 - loss : 2.4601 - acc: 0.1017 - val_loss : 2.4714 - val_acc: 0.0935
+
+  [8,   200] loss: 0.245
+  [8,   400] loss: 0.247
+  [8,   600] loss: 0.246
+  Epoch 7
+  Epoch : 8 - loss : 2.4600 - acc: 0.1017 - val_loss : 2.4723 - val_acc: 0.0932
+
+  [9,   200] loss: 0.246
+  [9,   400] loss: 0.246
+  [9,   600] loss: 0.246
+  Epoch 8
+  Epoch : 9 - loss : 2.4602 - acc: 0.1017 - val_loss : 2.4706 - val_acc: 0.0940
+
+  [10,   200] loss: 0.246
+  [10,   400] loss: 0.246
+  [10,   600] loss: 0.246
+  Epoch 9
+  Epoch : 10 - loss : 2.4602 - acc: 0.1017 - val_loss : 2.4724 - val_acc: 0.0932
+
+  [11,   200] loss: 0.245
+  [11,   400] loss: 0.246
+  [11,   600] loss: 0.246
+  Epoch 10
+  Epoch : 11 - loss : 2.4601 - acc: 0.1017 - val_loss : 2.4716 - val_acc: 0.0935
+
+  [12,   200] loss: 0.246
+  [12,   400] loss: 0.246
+  [12,   600] loss: 0.245
+  Epoch 11
+  Epoch : 12 - loss : 2.4601 - acc: 0.1017 - val_loss : 2.4707 - val_acc: 0.0938
+
+  [13,   200] loss: 0.247
+  [13,   400] loss: 0.245
+  [13,   600] loss: 0.246
+  Epoch 12
+  Epoch : 13 - loss : 2.4601 - acc: 0.1017 - val_loss : 2.4717 - val_acc: 0.0932
+
+  [14,   200] loss: 0.246
+  [14,   400] loss: 0.246
+  [14,   600] loss: 0.246
+  Epoch 13
+  Epoch : 14 - loss : 2.4603 - acc: 0.1017 - val_loss : 2.4712 - val_acc: 0.0935
+
+  [15,   200] loss: 0.246
+  [15,   400] loss: 0.246
+  [15,   600] loss: 0.246
+  Epoch 14
+  Epoch : 15 - loss : 2.4602 - acc: 0.1017 - val_loss : 2.4726 - val_acc: 0.0932
+
+  [16,   200] loss: 0.247
+  [16,   400] loss: 0.246
+  [16,   600] loss: 0.245
+  Epoch 15
+  Epoch : 16 - loss : 2.4601 - acc: 0.1017 - val_loss : 2.4716 - val_acc: 0.0932
+
+  [17,   200] loss: 0.246
+  [17,   400] loss: 0.246
+  [17,   600] loss: 0.246
+  Epoch 16
+  Epoch : 17 - loss : 2.4601 - acc: 0.1017 - val_loss : 2.4726 - val_acc: 0.0929
+
+  [18,   200] loss: 0.246
+  [18,   400] loss: 0.247
+  [18,   600] loss: 0.245
+  Epoch 17
+  Epoch : 18 - loss : 2.4601 - acc: 0.1017 - val_loss : 2.4724 - val_acc: 0.0938
+
+  [19,   200] loss: 0.246
+  [19,   400] loss: 0.246
+  [19,   600] loss: 0.246
+  Epoch 18
+  Epoch : 19 - loss : 2.4601 - acc: 0.1017 - val_loss : 2.4712 - val_acc: 0.0935
+
+  [20,   200] loss: 0.246
+  [20,   400] loss: 0.246
+  [20,   600] loss: 0.246
+  Epoch 19
+  Epoch : 20 - loss : 2.4601 - acc: 0.1017 - val_loss : 2.4713 - val_acc: 0.0932
+
+HEADS = 16
+  [1,   200] loss: 0.240
+  [1,   400] loss: 0.241
+  [1,   600] loss: 0.241
+  Epoch 0
+  Epoch : 1 - loss : 2.4071 - acc: 0.1035 - val_loss : 2.4114 - val_acc: 0.0988
+
+  [2,   200] loss: 0.241
+  [2,   400] loss: 0.241
+  [2,   600] loss: 0.241
+  Epoch 1
+  Epoch : 2 - loss : 2.4072 - acc: 0.1026 - val_loss : 2.4114 - val_acc: 0.0991
+
+  [3,   200] loss: 0.240
+  [3,   400] loss: 0.240
+  [3,   600] loss: 0.241
+  Epoch 2
+  Epoch : 3 - loss : 2.4071 - acc: 0.1026 - val_loss : 2.4119 - val_acc: 0.0985
+
+  [4,   200] loss: 0.241
+  [4,   400] loss: 0.241
+  [4,   600] loss: 0.241
+  Epoch 3
+  Epoch : 4 - loss : 2.4071 - acc: 0.1029 - val_loss : 2.4118 - val_acc: 0.0988
+
+  [5,   200] loss: 0.240
+  [5,   400] loss: 0.241
+  [5,   600] loss: 0.241
+  Epoch 4
+  Epoch : 5 - loss : 2.4072 - acc: 0.1029 - val_loss : 2.4119 - val_acc: 0.0991
+
+  [6,   200] loss: 0.241
+  [6,   400] loss: 0.241
+  [6,   600] loss: 0.241
+  Epoch 5
+  Epoch : 6 - loss : 2.4071 - acc: 0.1031 - val_loss : 2.4112 - val_acc: 0.0988
+
+  [7,   200] loss: 0.241
+  [7,   400] loss: 0.240
+  [7,   600] loss: 0.240
+  Epoch 6
+  Epoch : 7 - loss : 2.4070 - acc: 0.1035 - val_loss : 2.4121 - val_acc: 0.0988
+
+  [8,   200] loss: 0.241
+  [8,   400] loss: 0.240
+  [8,   600] loss: 0.241
+  Epoch 7
+  Epoch : 8 - loss : 2.4072 - acc: 0.1030 - val_loss : 2.4118 - val_acc: 0.0988
+
+  [9,   200] loss: 0.241
+  [9,   400] loss: 0.240
+  [9,   600] loss: 0.241
+  Epoch 8
+  Epoch : 9 - loss : 2.4071 - acc: 0.1030 - val_loss : 2.4121 - val_acc: 0.0988
+
+  [10,   200] loss: 0.240
+  [10,   400] loss: 0.241
+  [10,   600] loss: 0.241
+  Epoch 9
+  Epoch : 10 - loss : 2.4070 - acc: 0.1029 - val_loss : 2.4109 - val_acc: 0.0988
+
+  [11,   200] loss: 0.241
+  [11,   400] loss: 0.241
+  [11,   600] loss: 0.240
+  Epoch 10
+  Epoch : 11 - loss : 2.4069 - acc: 0.1034 - val_loss : 2.4113 - val_acc: 0.0988
+
+  [12,   200] loss: 0.241
+  [12,   400] loss: 0.241
+  [12,   600] loss: 0.241
+  Epoch 11
+  Epoch : 12 - loss : 2.4072 - acc: 0.1029 - val_loss : 2.4119 - val_acc: 0.0985
+
+  [13,   200] loss: 0.240
+  [13,   400] loss: 0.241
+  [13,   600] loss: 0.241
+  Epoch 12
+  Epoch : 13 - loss : 2.4070 - acc: 0.1030 - val_loss : 2.4116 - val_acc: 0.0994
+
+  [14,   200] loss: 0.241
+  [14,   400] loss: 0.240
+  [14,   600] loss: 0.241
+  Epoch 13
+  Epoch : 14 - loss : 2.4070 - acc: 0.1038 - val_loss : 2.4104 - val_acc: 0.0985
+
+  [15,   200] loss: 0.240
+  [15,   400] loss: 0.241
+  [15,   600] loss: 0.241
+  Epoch 14
+  Epoch : 15 - loss : 2.4070 - acc: 0.1036 - val_loss : 2.4113 - val_acc: 0.0988
+
+  [16,   200] loss: 0.241
+  [16,   400] loss: 0.241
+  [16,   600] loss: 0.240
+  Epoch 15
+  Epoch : 16 - loss : 2.4070 - acc: 0.1033 - val_loss : 2.4123 - val_acc: 0.0988
+
+  [17,   200] loss: 0.240
+  [17,   400] loss: 0.241
+  [17,   600] loss: 0.241
+  Epoch 16
+  Epoch : 17 - loss : 2.4071 - acc: 0.1029 - val_loss : 2.4124 - val_acc: 0.0985
+
+  [18,   200] loss: 0.241
+  [18,   400] loss: 0.241
+  [18,   600] loss: 0.240
+  Epoch 17
+  Epoch : 18 - loss : 2.4070 - acc: 0.1036 - val_loss : 2.4115 - val_acc: 0.0985
+
+  [19,   200] loss: 0.241
+  [19,   400] loss: 0.240
+  [19,   600] loss: 0.241
+  Epoch 18
+  Epoch : 19 - loss : 2.4070 - acc: 0.1024 - val_loss : 2.4113 - val_acc: 0.0991
+
+  [20,   200] loss: 0.241
+  [20,   400] loss: 0.241
+  [20,   600] loss: 0.240
+  Epoch 19
+  Epoch : 20 - loss : 2.4071 - acc: 0.1033 - val_loss : 2.4122 - val_acc: 0.0985
+
+HEADS = 32
+  [1,   200] loss: 0.247
+  [1,   400] loss: 0.248
+  [1,   600] loss: 0.248
+  Epoch 0
+  Epoch : 1 - loss : 2.4786 - acc: 0.0978 - val_loss : 2.4840 - val_acc: 0.0970
+
+  [2,   200] loss: 0.247
+  [2,   400] loss: 0.248
+  [2,   600] loss: 0.248
+  Epoch 1
+  Epoch : 2 - loss : 2.4786 - acc: 0.0972 - val_loss : 2.4842 - val_acc: 0.0961
+
+  [3,   200] loss: 0.248
+  [3,   400] loss: 0.248
+  [3,   600] loss: 0.248
+  Epoch 2
+  Epoch : 3 - loss : 2.4786 - acc: 0.0982 - val_loss : 2.4833 - val_acc: 0.0970
+
+  [4,   200] loss: 0.247
+  [4,   400] loss: 0.248
+  [4,   600] loss: 0.248
+  Epoch 3
+  Epoch : 4 - loss : 2.4786 - acc: 0.0971 - val_loss : 2.4853 - val_acc: 0.0961
+
+  [5,   200] loss: 0.248
+  [5,   400] loss: 0.248
+  [5,   600] loss: 0.248
+  Epoch 4
+  Epoch : 5 - loss : 2.4786 - acc: 0.0973 - val_loss : 2.4843 - val_acc: 0.0964
+
+  [6,   200] loss: 0.248
+  [6,   400] loss: 0.247
+  [6,   600] loss: 0.248
+  Epoch 5
+  Epoch : 6 - loss : 2.4785 - acc: 0.0974 - val_loss : 2.4828 - val_acc: 0.0964
+
+  [7,   200] loss: 0.248
+  [7,   400] loss: 0.249
+  [7,   600] loss: 0.247
+  Epoch 6
+  Epoch : 7 - loss : 2.4785 - acc: 0.0975 - val_loss : 2.4839 - val_acc: 0.0964
+
+  [8,   200] loss: 0.248
+  [8,   400] loss: 0.248
+  [8,   600] loss: 0.247
+  Epoch 7
+  Epoch : 8 - loss : 2.4785 - acc: 0.0969 - val_loss : 2.4833 - val_acc: 0.0967
+
+  [9,   200] loss: 0.247
+  [9,   400] loss: 0.248
+  [9,   600] loss: 0.248
+  Epoch 8
+  Epoch : 9 - loss : 2.4787 - acc: 0.0970 - val_loss : 2.4840 - val_acc: 0.0964
+
+  [10,   200] loss: 0.248
+  [10,   400] loss: 0.248
+  [10,   600] loss: 0.248
+  Epoch 9
+  Epoch : 10 - loss : 2.4787 - acc: 0.0974 - val_loss : 2.4836 - val_acc: 0.0967
+
+  [11,   200] loss: 0.248
+  [11,   400] loss: 0.248
+  [11,   600] loss: 0.247
+  Epoch 10
+  Epoch : 11 - loss : 2.4786 - acc: 0.0977 - val_loss : 2.4844 - val_acc: 0.0964
+
+  [12,   200] loss: 0.247
+  [12,   400] loss: 0.248
+  [12,   600] loss: 0.248
+  Epoch 11
+  Epoch : 12 - loss : 2.4786 - acc: 0.0970 - val_loss : 2.4830 - val_acc: 0.0961
+
+  [13,   200] loss: 0.248
+  [13,   400] loss: 0.248
+  [13,   600] loss: 0.247
+  Epoch 12
+  Epoch : 13 - loss : 2.4786 - acc: 0.0973 - val_loss : 2.4846 - val_acc: 0.0964
+
+  [14,   200] loss: 0.248
+  [14,   400] loss: 0.248
+  [14,   600] loss: 0.248
+  Epoch 13
+  Epoch : 14 - loss : 2.4784 - acc: 0.0972 - val_loss : 2.4844 - val_acc: 0.0967
+
+  [15,   200] loss: 0.248
+  [15,   400] loss: 0.247
+  [15,   600] loss: 0.248
+  Epoch 14
+  Epoch : 15 - loss : 2.4786 - acc: 0.0977 - val_loss : 2.4835 - val_acc: 0.0967
+
+  [16,   200] loss: 0.248
+  [16,   400] loss: 0.248
+  [16,   600] loss: 0.248
+  Epoch 15
+  Epoch : 16 - loss : 2.4785 - acc: 0.0977 - val_loss : 2.4844 - val_acc: 0.0964
+
+  [17,   200] loss: 0.248
+  [17,   400] loss: 0.248
+  [17,   600] loss: 0.248
+  Epoch 16
+  Epoch : 17 - loss : 2.4786 - acc: 0.0984 - val_loss : 2.4839 - val_acc: 0.0967
+
+  [18,   200] loss: 0.248
+  [18,   400] loss: 0.248
+  [18,   600] loss: 0.248
+  Epoch 17
+  Epoch : 18 - loss : 2.4783 - acc: 0.0977 - val_loss : 2.4841 - val_acc: 0.0967
+
+  [19,   200] loss: 0.248
+  [19,   400] loss: 0.248
+  [19,   600] loss: 0.247
+  Epoch 18
+  Epoch : 19 - loss : 2.4785 - acc: 0.0981 - val_loss : 2.4830 - val_acc: 0.0967
+
+  [20,   200] loss: 0.248
+  [20,   400] loss: 0.248
+  [20,   600] loss: 0.247
+  Epoch 19
+  Epoch : 20 - loss : 2.4785 - acc: 0.0973 - val_loss : 2.4841 - val_acc: 0.0964
+
+HEADS = 64
+  [1,   200] loss: 0.216
+  [1,   400] loss: 0.203
+  [1,   600] loss: 0.196
+  Epoch 0
+  Epoch : 1 - loss : 2.0442 - acc: 0.2311 - val_loss : 1.8486 - val_acc: 0.3248
+
+  [2,   200] loss: 0.188
+  [2,   400] loss: 0.184
+  [2,   600] loss: 0.183
+  Epoch 1
+  Epoch : 2 - loss : 1.8471 - acc: 0.3223 - val_loss : 1.6680 - val_acc: 0.3924
+
+  [3,   200] loss: 0.180
+  [3,   400] loss: 0.179
+  [3,   600] loss: 0.178
+  Epoch 2
+  Epoch : 3 - loss : 1.7898 - acc: 0.3413 - val_loss : 1.6200 - val_acc: 0.4100
+
+  [4,   200] loss: 0.176
+  [4,   400] loss: 0.176
+  [4,   600] loss: 0.174
+  Epoch 3
+  Epoch : 4 - loss : 1.7541 - acc: 0.3551 - val_loss : 1.5976 - val_acc: 0.4153
+
+  [5,   200] loss: 0.173
+  [5,   400] loss: 0.172
+  [5,   600] loss: 0.171
+  Epoch 4
+  Epoch : 5 - loss : 1.7144 - acc: 0.3702 - val_loss : 1.5025 - val_acc: 0.4586
+
+  [6,   200] loss: 0.170
+  [6,   400] loss: 0.169
+  [6,   600] loss: 0.168
+  Epoch 5
+  Epoch : 6 - loss : 1.6900 - acc: 0.3805 - val_loss : 1.4941 - val_acc: 0.4540
+
+  [7,   200] loss: 0.168
+  [7,   400] loss: 0.167
+  [7,   600] loss: 0.168
+  Epoch 6
+  Epoch : 7 - loss : 1.6721 - acc: 0.3907 - val_loss : 1.4829 - val_acc: 0.4674
+
+  [8,   200] loss: 0.165
+  [8,   400] loss: 0.164
+  [8,   600] loss: 0.165
+  Epoch 7
+  Epoch : 8 - loss : 1.6485 - acc: 0.4020 - val_loss : 1.4235 - val_acc: 0.4899
+
+  [9,   200] loss: 0.162
+  [9,   400] loss: 0.163
+  [9,   600] loss: 0.162
+  Epoch 8
+  Epoch : 9 - loss : 1.6228 - acc: 0.4111 - val_loss : 1.4118 - val_acc: 0.4952
+
+  [10,   200] loss: 0.161
+  [10,   400] loss: 0.159
+  [10,   600] loss: 0.161
+  Epoch 9
+  Epoch : 10 - loss : 1.6015 - acc: 0.4216 - val_loss : 1.3814 - val_acc: 0.5097
+
+  [11,   200] loss: 0.161
+  [11,   400] loss: 0.157
+  [11,   600] loss: 0.157
+  Epoch 10
+  Epoch : 11 - loss : 1.5821 - acc: 0.4281 - val_loss : 1.3501 - val_acc: 0.5200
+
+  [12,   200] loss: 0.157
+  [12,   400] loss: 0.156
+  [12,   600] loss: 0.157
+  Epoch 11
+  Epoch : 12 - loss : 1.5676 - acc: 0.4346 - val_loss : 1.3520 - val_acc: 0.5194
+
+  [13,   200] loss: 0.155
+  [13,   400] loss: 0.154
+  [13,   600] loss: 0.154
+  Epoch 12
+  Epoch : 13 - loss : 1.5469 - acc: 0.4407 - val_loss : 1.3183 - val_acc: 0.5309
+
+  [14,   200] loss: 0.154
+  [14,   400] loss: 0.152
+  [14,   600] loss: 0.153
+  Epoch 13
+  Epoch : 14 - loss : 1.5282 - acc: 0.4514 - val_loss : 1.3230 - val_acc: 0.5319
+
+  [15,   200] loss: 0.151
+  [15,   400] loss: 0.152
+  [15,   600] loss: 0.150
+  Epoch 14
+  Epoch : 15 - loss : 1.5066 - acc: 0.4577 - val_loss : 1.2972 - val_acc: 0.5454
+
+  [16,   200] loss: 0.150
+  [16,   400] loss: 0.149
+  [16,   600] loss: 0.149
+  Epoch 15
+  Epoch : 16 - loss : 1.4973 - acc: 0.4660 - val_loss : 1.2915 - val_acc: 0.5406
+
+  [17,   200] loss: 0.148
+  [17,   400] loss: 0.148
+  [17,   600] loss: 0.148
+  Epoch 16
+  Epoch : 17 - loss : 1.4787 - acc: 0.4712 - val_loss : 1.2308 - val_acc: 0.5674
+
+  [18,   200] loss: 0.147
+  [18,   400] loss: 0.148
+  [18,   600] loss: 0.145
+  Epoch 17
+  Epoch : 18 - loss : 1.4629 - acc: 0.4769 - val_loss : 1.2425 - val_acc: 0.5530
+
+  [19,   200] loss: 0.145
+  [19,   400] loss: 0.146
+  [19,   600] loss: 0.144
+  Epoch 18
+  Epoch : 19 - loss : 1.4468 - acc: 0.4811 - val_loss : 1.2202 - val_acc: 0.5698
+
+  [20,   200] loss: 0.145
+  [20,   400] loss: 0.143
+  [20,   600] loss: 0.143
+  Epoch 19
+  Epoch : 20 - loss : 1.4322 - acc: 0.4873 - val_loss : 1.1889 - val_acc: 0.5772
+
